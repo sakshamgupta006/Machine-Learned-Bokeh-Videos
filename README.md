@@ -14,5 +14,7 @@ This application tries to mimic bokeh effect on videos using Mask-RCNN and bluri
 ```
 python -input <Video Name> -output <Output Name> -model <Model Name> 
 ```
+## Result
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v=un50hRt_9x0/0.jpg)](https://www.youtube.com/watch?v=v=un50hRt_9x0)
 
 ## Future Work
